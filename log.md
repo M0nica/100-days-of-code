@@ -10,6 +10,7 @@ Additionally, need to research best practices to avoid recieving 403 error for t
 
 Link to my open issue: https://github.com/ryanmcgrath/twython/issues/437
 
-**Link to work:** [BlackGirlMagic GitHub Repo with Code](https://github.com/M0nica/blackgirlmagic)
-[Twitter: @BlackGalMagic](https://twitter.com/blackgalmagicblackgalmagic)
+**Link to work:** 
+- [BlackGirlMagic GitHub Repo with Code](https://github.com/M0nica/blackgirlmagic)
+- [Twitter: @BlackGalMagic](https://twitter.com/blackgalmagicblackgalmagic)
 
