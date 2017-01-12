@@ -15,7 +15,7 @@ Link to my open issue: https://github.com/ryanmcgrath/twython/issues/437
 - [Twitter: @BlackGalMagic](https://twitter.com/blackgalmagicblackgalmagic)
 
 
-### Day 0: January, 10th, 2017
+### Day 1: January, 11th, 2017
 ##### Refactored & Improved #BlackGirlMagic Twitter Bot 
 
 **Today's Progress**: Refactored the code in my #BlackGirlMagic twitter bot to iterate searching through a list of related hashtags. Also, was able to get the script to run on my Digital Ocean droplet so now it's actually a bot! I created a cron job to run my script every 5 mins. 
