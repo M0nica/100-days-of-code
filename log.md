@@ -12,7 +12,7 @@ Link to my open issue: https://github.com/ryanmcgrath/twython/issues/437
 
 **Link to work:** 
 - [BlackGirlMagic (GitHub Repo)](https://github.com/M0nica/blackgirlmagic)
-- [Twitter: @BlackGalMagic](https://twitter.com/blackgalmagicblackgalmagic)
+- [Twitter: @BlackGalMagic](https://twitter.com/blackgalmagic)
 
 
 ### Day 1: January, 11th, 2017
@@ -30,7 +30,7 @@ Link to my closed issue: https://github.com/ryanmcgrath/twython/issues/437ffffff
 **Link to work:** 
 - [BlackGirlMagic (GitHub Repo)](https://github.com/M0nica/blackgirlmagic)
    - [BGM Python Script] (https://github.com/M0nica/blackgirlmagic/blob/master/blackgirlmagic_rt.py) 
-- [Twitter: @BlackGalMagic](https://twitter.com/blackgalmagicblackgalmagic)
+- [Twitter: @BlackGalMagic](https://twitter.com/blackgalmagic)
 
 
 
