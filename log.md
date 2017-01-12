@@ -23,7 +23,7 @@ Link to my open issue: https://github.com/ryanmcgrath/twython/issues/437
 **Thoughts:** 
 Submitting an issue on GitHub is relatively painless and I was able to quickly resolve my issues with running Twython on Digital Ocean after submitting an issue. I am still recieinvg 403 errors when my script tries to RT a tweet the account has already retweeted.Will look into ways to cache this value without it getting overriden when the script is run again. May need to store all retweeted tweets in a seperate file. However, this seems like it may be overkill since I chose popular hashtags (which update frequrntly) and the script is only trying to RT the 2 most recent tweets for a given hashtag at any given time. 
 
-fff
+In the couple of hours that my bot has had the training wheels off I recieved a 3 followers and was added to 2 lists. 
 
 Link to my closed issue: https://github.com/ryanmcgrath/twython/issues/437ffffff
 
