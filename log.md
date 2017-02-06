@@ -41,7 +41,7 @@ I am looking forward to re-factoring to beautify with CSS and ask user for locat
 
 
 **Link to work:** 
-- [BlackGirlMagic (detect_location_weather)](https://github.com/M0nica/flask_weather/blob/master/detect_location_weather.py)
+- [Detect_Location_Weather](https://github.com/M0nica/flask_weather/blob/master/detect_location_weather.py)
   
 
 Flask app to auto-detect local weather based off of user's IP address.
