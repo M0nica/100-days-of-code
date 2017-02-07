@@ -44,9 +44,18 @@ I am looking forward to re-factoring to beautify with CSS and ask user for locat
 - [Detect_Location_Weather (GitHub Repo)](https://github.com/M0nica/flask_weather/blob/master/detect_location_weather.py)
   
 
-Flask app to auto-detect local weather based off of user's IP address.
 
 
+### Day 4: February, 6th, 2017
+##### Flask App to Auto-Detect Weather - Enhancements
+**Today's Progress**: Added in a template weather.html to display the weather information and include an appropriate weather icon (https://erikflowers.github.io/weather-icons/) based on what the current weather is. I play around with the Flask app structure and was able to get everything to work well.
+
+**Thoughts:** 
+Next, I would like to add additional CSS styling and pull in hourly weather info to display in the weather.html page -- so that it displays the current weather & hourly projections. Preliminary research revealed I will have to convert time from Epoch Unix Time to something tha makes sense for hte user. http://www.unixtimestamp.com/index.php
+
+**Link to work:** 
+- [Detect_Location_Weather (GitHub Repo)](https://github.com/M0nica/flask_weather/blob/master/detect_location_weather.py)
+  
 
 
 
