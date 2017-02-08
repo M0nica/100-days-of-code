@@ -55,6 +55,17 @@ Next, I would like to add additional CSS styling and pull in hourly weather info
 
 **Link to work:** 
 - [Detect_Location_Weather (GitHub Repo)](https://github.com/M0nica/flask_weather/blob/master/detect_location_weather.py)
+
+
+### Day 5: February, 7th, 2017
+##### Flask App to Auto-Detect Weather - Enhancements
+**Today's Progress**: Updated the styling of the app, worked on the rain language logic and added my first `.gitattributes` file.
+
+**Thoughts:** 
+To re-iterate my thoughts from yesterday I need to add CSS styling and pull in hourly weather info to display in the weather.html page -- so that it displays the current weather & hourly projections. Preliminary research revealed I will have to convert time from Epoch Unix Time to something tha makes sense for the user. http://www.unixtimestamp.com/index.php
+
+**Link to work:** 
+- [Detect_Location_Weather (GitHub Repo)](https://github.com/M0nica/flask_weather/blob/master/detect_location_weather.py)
   
 
 
