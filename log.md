@@ -80,7 +80,7 @@ Contributing to open-source projects can be fun! It seems like others are eager 
 **Link to work:** 
 I submitted two pull requests:
 - [https://github.com/code-corps/code-corps-ember/pull/1027 - adding additional information to documentation](https://github.com/code-corps/code-corps-ember/pull/1027)
-- [https://github.com/code-corps/code-corps-ember/pull/1026 - beginning to tackle a data validation issue](https://github.com/code-corps/code-corps-ember/pull/1026)
+- [https://github.com/code-corps/code-corps-ember/pull/1026 - tackled a data validation issue](https://github.com/code-corps/code-corps-ember/pull/1026)
   
 
 
