@@ -69,4 +69,20 @@ To re-iterate my thoughts from yesterday I need to add CSS styling and pull in h
   
 
 
+### Day 6: February, 8th, 2017
+##### Kicked off contributions to Code Corps
+**Today's Progress**: I set up my developer environment to play nicely with [Code Corp](https://github.com/code-corps)'s ember app. I needed to install `npm` `bower` `ember` since my hardrive was recently wiped! I was able to get the app running locally and reached out to other members throughout the process. 
+
+**Thoughts:** 
+Contributing to open-source projects can be fun! It seems like others are eager to help and there are is a wide range in the scope of issues that need help. I am looking forward to being more involved in Open Source Software initiatives moving forward. 
+
+
+**Link to work:** 
+I submitted two pull requests:
+[https://github.com/code-corps/code-corps-ember/pull/1027 - adding additional information to documentation](https://github.com/code-corps/code-corps-ember/pull/1027)
+[https://github.com/code-corps/code-corps-ember/pull/1026 - beginning to tackle a data validation issue](https://github.com/code-corps/code-corps-ember/pull/1026)
+  
+
+
+
 
