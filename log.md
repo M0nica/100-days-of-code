@@ -82,6 +82,18 @@ I submitted two pull requests:
 - [https://github.com/code-corps/code-corps-ember/pull/1026 - tackled a form validation issue](https://github.com/code-corps/code-corps-ember/pull/1026)
 - [https://github.com/code-corps/code-corps-ember/pull/1027 - adding additional information to documentation](https://github.com/code-corps/code-corps-ember/pull/1027)
 
+### Day 7: February, 9th, 2017
+##### Still coding!
+**Today's Progress**: My two pull requests from yesterday were accepted by Code Corps! I am looking forward to contributing more. Today, I was a bit all over the place and looked at www.data.gov for inspiration...I even sent a test Slack message from a Python Script. I ended up creating a Percent Change Calculator in Python with basic validation (requires field to be filled out + requires numeric value). 
+
+**Thoughts:** 
+I think as I progress in #100DaysOfCode I should plan out my project(s) for the upcoming week to help stay concentrated on building projects with more depth. 
+
+
+**Link to work:** 
+I submitted two pull requests:
+- [https://github.com/M0nica/percent-calc](https://github.com/M0nica/percent-calc)
+
 
 
 
