@@ -91,7 +91,6 @@ I think as I progress in #100DaysOfCode I should plan out my project(s) for the 
 
 
 **Link to work:** 
-I submitted two pull requests:
 - [https://github.com/M0nica/percent-calc](https://github.com/M0nica/percent-calc)
 
 
