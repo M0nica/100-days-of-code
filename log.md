@@ -111,7 +111,7 @@ After getting the app and running I added additional logic:
 **Thoughts:** 
 I am still trying to figure out how to handle required fields not being properly validated on iOS Safari. I feel a lot better now that my Flask app was properly deployed on Heroku and am looking forward to refactoring and deploying more apps to Heroku in the future.
 
-Fun fact: Heroku doesn't charge for you to run basic apps
+Fun fact: Heroku doesn't charge for you to run basic apps. [https://devcenter.heroku.com/articles/free-dyno-hours](https://devcenter.heroku.com/articles/free-dyno-hours)
 
 **Links to work:** 
 - [https://percentcalc-pro.herokuapp.com](https://percentcalc-pro.herokuapp.com)
