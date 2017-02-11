@@ -98,6 +98,22 @@ I think as I progress in #100DaysOfCode I should plan out my project(s) for the 
 ##### Debugging Heroku!
 **Today's Progress**: Worked to get my two Python apps on Heroku. However, after the deployment process I realized my apps function differently locally versus on Heroku. I am still debugging these issues. I've started to track these issues and future enhancements with GitHub issues. 
 
+### Day 9: February, 11th, 2017
+#####Finished Debugging Heroku and Better Error Handling :)
+Day 9: I was able to get my percentage change calculator up and running on Heroku. This was a multi-day process because my Heroku environment was behaving differently than my local Python environment despite them both running the same version of Python they handled floats differently which needed to be resolved.
+After getting the app and running I added additional logic:
+- handle decimals (`step="any"`)
+- error handling(`404.html/405.html`) 
+- context logic for how the result is displayed based on if the % change is positive/negative/neither. 
+- parameters to my URL - so that each output has a unique page URL
+- layout template with header and footer for other pages to extend.
 
+**Thoughts:** 
+I am still trying to figure out how to handle required fields not being properly validated on iOS Safari. I feel a lot better now that my Flask app was properly deployed on Heroku and am looking forward to refactoring and deploying more apps to Heroku in the future.
 
+Fun fact: Heroku doesn't charge for you to run basic apps
+
+**Links to work:** 
+- [https://percentcalc-pro.herokuapp.com](https://percentcalc-pro.herokuapp.com)
+- [https://github.com/M0nica/percent-calc](https://github.com/M0nica/percent-calc)
 
