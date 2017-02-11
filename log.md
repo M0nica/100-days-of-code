@@ -94,6 +94,10 @@ I think as I progress in #100DaysOfCode I should plan out my project(s) for the 
 - [https://github.com/M0nica/percent-calc](https://github.com/M0nica/percent-calc)
 
 
+### Day 8: February, 10th, 2017
+##### Debugging Heroku!
+**Today's Progress**: Worked to get my two Python apps on Heroku. However, after the deployment process I realized my apps function differently locally versus on Heroku. I am still debugging these issues. I've started to track these issues and future enhancements with GitHub issues. 
+
 
 
 
