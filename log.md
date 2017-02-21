@@ -117,3 +117,8 @@ Fun fact: Heroku doesn't charge for you to run basic apps. [https://devcenter.he
 - [https://percentcalc-pro.herokuapp.com](https://percentcalc-pro.herokuapp.com)
 - [https://github.com/M0nica/percent-calc](https://github.com/M0nica/percent-calc)
 
+### Day 10/11 - Revisiting Old Flask Application
+rebooted Flask app from quote database (Postgres SQL) I started working on before -- introduced layout that can be extended and made some stylistic changes
+
+### Day 12 -   
+worked on % change calculator -- refactored so that there is language visible on right-hand side of page to guide users through the app - shows instructions on landing page, instructions when there's a 404 error, replace instructions with results when two valid numbers are input.
