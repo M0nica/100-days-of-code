@@ -119,6 +119,10 @@ Fun fact: Heroku doesn't charge for you to run basic apps. [https://devcenter.he
 
 ### Day 10/11 February, 15th/16th, 2017 - Revisiting Old Flask Application
 rebooted Flask app from quote database (Postgres SQL) I started working on before -- introduced layout that can be extended and made some stylistic changes
+**Link to work**
+- [https://github.com/M0nica/affirmation_generator](https://github.com/M0nica/affirmation_generator)
 
 ### Day 12 - February, 20th, 2017
 worked on % change calculator -- refactored so that there is language visible on right-hand side of page to guide users through the app - shows instructions on landing page, instructions when there's a 404 error, replace instructions with results when two valid numbers are input.
+**Link to work**
+- [https://percentcalc-pro.herokuapp.com/](https://percentcalc-pro.herokuapp.com/)
